@@ -1,7 +1,7 @@
 {
   "feedinfo": {
     "category": "Meta", 
-    "provider_url": "firmguardian.com", 
+    "provider_url": "https://www.firmguardian.com", 
     "display_name": "Test Feed", 
     "name": "FGTestFeed", 
     "tech_data": "This feed does not require data to be shared.", 
@@ -13,11 +13,7 @@
       "timestamp": 1543348946, 
       "iocs": {
         "ip4": [
-          "101.200.81.187", 
-          "103.19.89.118"
-        ], 
-        "md5": [
-          "806af26caeb8c014e71f9d297a214db6"
+          "101.200.81.187"
         ]
       }, 
       "score": 100, 
